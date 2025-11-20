@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+pydantic
+python-docx
+reportlab
+pdf2image
+pillow
+pytesseract
+google-generativeai
